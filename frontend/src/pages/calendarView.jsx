@@ -3,6 +3,7 @@ import "../styles/style.css";
 import { BrowserRouter as Router, Route, Routes, Link, Navigate } from 'react-router-dom';
 
 const CalendarView = () => {
+  
   const [events] = useState({
     '2020-02-01': [{ name: 'All Day Event', type: 'all-day' }],
     '2020-02-06': [{ name: 'Long Event', type: 'long-event' }],
