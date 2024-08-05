@@ -156,9 +156,11 @@ function Home() {
                     <a href="#" className="list-group-item list-group-item-action list-group-item-violet">Do Informatic Task</a>
                     <a href="#" className="list-group-item list-group-item-action list-group-item-pink">Plant Waters</a>
                     <a href="#" className="list-group-item list-group-item-action list-group-item-violet">Eat healthy today</a>
-                    <a href="#" className="list-group-item list-group-item-action list-group-item-pink">This is a info list group item</a>
-                    <a href="#" className="list-group-item list-group-item-action list-group-item-violet">This is a light list group item</a>
-                    <a href="#" className="list-group-item list-group-item-action list-group-item-pink">This is a dark list group item</a>
+                    <a href="#" className="list-group-item list-group-item-action list-group-item-pink">Plan the following week</a>
+                    <a href="#" className="list-group-item list-group-item-action list-group-item-violet">Read an introduction to cashe menage</a>
+                    <a href="#" className="list-group-item list-group-item-action list-group-item-pink">Watch Atack on Titan s2e3</a>
+                    <a href="#" className="list-group-item list-group-item-action list-group-item-violet">Write some tests</a>
+                    <a href="#" className="list-group-item list-group-item-action list-group-item-pink">Go to sleep before 9</a>
                   </div>
                 </div>
               </div>
