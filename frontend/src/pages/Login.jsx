@@ -5,6 +5,8 @@ import "../styles/style.css"; // Upewnij się, że ścieżka do pliku CSS jest p
 import Form from "../components/Form";
 
 function Login() {
+  localStorage.clear();
+
   const [isLogin, setIsLogin] = useState(true);
 
   return (
