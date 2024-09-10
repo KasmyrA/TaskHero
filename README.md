@@ -1,4 +1,4 @@
-# TaskHero, Projekt_na_4
+# TaskHero
  The application to manage your time in a fun way. Much more than calendar. 
 
 Functionality:
