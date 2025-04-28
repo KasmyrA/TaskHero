@@ -7,8 +7,6 @@ Functionality:
 + Ability to check your progress
 
 
-To do:
-
 1. Database:
 
 
